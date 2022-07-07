@@ -1,2 +1,2 @@
-From unbuntu
+From ubuntu
 ADD .
