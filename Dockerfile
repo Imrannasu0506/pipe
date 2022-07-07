@@ -1,3 +1,3 @@
-From ubuntu
-ADD . /var/www/html
-
+FROM ubuntu
+MAINTAINER mani
+RUN apt-get update
